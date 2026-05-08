@@ -1,10 +1,10 @@
 const style = {
-  backgroundcolor: "#1b3dd6",
+  backgroundColor: "#1b3dd6",
   width: "400px",
   height: "30px",
   padding: "8px",
   margin: "8px",
-  borderradius: "8px"
+  borderRadius: "8px"
 };
 
 export const InputTodo = (props) => {
